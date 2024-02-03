@@ -4,9 +4,9 @@
 # documentation.
 
 # This workflow will install Deno and run tests across stable and nightly builds on Windows, Ubuntu and macOS.
-# For more information see: https://github.com/denolib/setup-deno
+# For more information see: https://github.com/Radheranij/Radhe_sticker
 
-name: grammY
+name: Radhe_sticker
 
 on:
     push:
